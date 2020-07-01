@@ -15,5 +15,9 @@ languages:
     pascal: Lame
 education: |
     4 GCSEs
-    3 A-Leevls
+<<<<<<< HEAD
+    3 A-Levels
+=======
+    4 A-Leevls
+>>>>>>> 5fdf2a80cb5a6dcbfdf5a919845cf9101047583c
     BSc in the Internet of Things 
