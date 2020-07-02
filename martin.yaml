@@ -8,6 +8,7 @@ foods:
     - Zitrone
     - Orange
     - Mango
+    - Cherry
 languages:
     perl: Elite
     python: Elite
